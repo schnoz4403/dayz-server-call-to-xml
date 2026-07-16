@@ -1,0 +1,48 @@
+---------------------------------------------
+Log D:\SteamLibrary\steamapps\common\DayZServer\config\crash_2026-07-15_22-27-21.log started at 15.07. 22:27:47
+
+
+
+------------------------------------
+DESKTOP-LTITSSS, 15.07 2026 22:27:47
+Unhandled exception
+
+Program: D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+Reason: Access violation. Illegal write by 0x7ff783019964 at 0x31202a35f
+
+
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+[CDPCreateServer]: ??? addr:0x7ff783019964
+SymGetSymFromAddr:487, addr:0x7ff782e067fc
+SymGetSymFromAddr:487, addr:0x7ff782e06211
+SymGetSymFromAddr:487, addr:0x7ff782e062bf
+SymGetSymFromAddr:487, addr:0x7ff782e06637
+[CDPCreateServer]: ??? addr:0x7ff7831d6755
+SymGetSymFromAddr:487, addr:0x7ff782ae03b1
+SymGetSymFromAddr:487, addr:0x7ff782ae0803
+SymGetSymFromAddr:487, addr:0x7ff782ae11bc
+SymGetSymFromAddr:487, addr:0x7ff782ac8b58
+SymGetSymFromAddr:487, addr:0x7ff782ac65b7
+SymGetSymFromAddr:487, addr:0x7ff782ac663c
+SymGetSymFromAddr:487, addr:0x7ff782e2687c
+[CDPInitServer]: ??? addr:0x7ff782ed79f8
+[CDPInitServer]: ??? addr:0x7ff782ec94f0
+SymGetSymFromAddr:487, addr:0x7ff782e8022a
+[CDPCreateServer]: ??? addr:0x7ff783072fd1
+[CDPCreateServer]: ??? addr:0x7ff7831d2c06
+[CDPCreateServer]: ??? addr:0x7ff7831c9e74
+SymGetSymFromAddr:487, addr:0x7ff782be5747
+[CDPCreateServer]: ??? addr:0x7ff7831d3ec6
+SymGetSymFromAddr:487, addr:0x7ff782d15c22
+[CDPCreateServer]: ??? addr:0x7ff783335712
+[BaseThreadInitThunk]: ??? addr:0x7ff8fe4ae957
+[RtlUserThreadStart]: ??? addr:0x7ff8ff227c1c
+[RtlUserThreadStart]: ??? addr:0x7ff8ff227c1c
+
+
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles config mod @CF;@Zens Core Mod;@Zens Skill Perk Tree;@VPPAdminTools;@Nomadbackpack; cpuCount 2 dologs  adminlog  netlog  freezecheck  

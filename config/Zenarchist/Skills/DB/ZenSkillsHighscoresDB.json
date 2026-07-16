@@ -1,0 +1,37 @@
+{
+    "ConfigVersion": "1.29.1",
+    "MaxEntries": 50,
+    "HighscoresIgnoreList": [
+        ""
+    ],
+    "Highscores": {
+        "survival": [
+            {
+                "PlayerUID": "_-wC0wV2ka14lFuc5eGGe-lQBE48vgdt55k-F4R92vI=",
+                "PlayerName": "massive muhammed",
+                "Level": 0
+            }
+        ],
+        "hunting": [
+            {
+                "PlayerUID": "_-wC0wV2ka14lFuc5eGGe-lQBE48vgdt55k-F4R92vI=",
+                "PlayerName": "massive muhammed",
+                "Level": 5
+            }
+        ],
+        "gathering": [
+            {
+                "PlayerUID": "_-wC0wV2ka14lFuc5eGGe-lQBE48vgdt55k-F4R92vI=",
+                "PlayerName": "massive muhammed",
+                "Level": 0
+            }
+        ],
+        "crafting": [
+            {
+                "PlayerUID": "_-wC0wV2ka14lFuc5eGGe-lQBE48vgdt55k-F4R92vI=",
+                "PlayerName": "massive muhammed",
+                "Level": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+---------------------------------------------
+Log D:\SteamLibrary\steamapps\common\DayZServer\config\script_2026-07-15_22-31-26.log started at 15.07. 22:31:27
+
+SCRIPT       : Module: GameLib; loaded 18x files; 26x classes; used 39/2097 kB (1%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_CommunityFramework,CF_MODULE_CONFIG,CF_EXPRESSION,C
+SCRIPT       : Registered 350 temporary action enum(s), UAN==350
+SCRIPT       : Module: Game; loaded 551x files; 1731x classes; used 4721/33554 kB (14%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_CommunityFramework,CF_MODULE_CONFIG,CF_EXPRESSI
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : Module: World; loaded 2325x files; 6021x classes; used 9796/33554 kB (29%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_CommunityFramework,CF_MODULE_CONFIG,CF_EXPRES
+ SCRIPT       : Module: Mission; loaded 311x files; 636x classes; used 4206/33554 kB (12%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_CommunityFramework,CF_MODULE_CONFIG,CF_EXPRE
+ SCRIPT       : Module: $CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c; loaded 1x files; 1x classes; used 4/1048 kB (0%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_Commu
+ SCRIPT       : [SERVER :: Vanilla++ AdminTools Plugins Registering]
+ SCRIPT       : [ZEN|2026.07.15 22:31:55] [ZenConfig] Loading file: $profile:Zenarchist\Skills\ZenSkillsConfig.json
+ SCRIPT       : [ZEN|2026.07.15 22:31:55] [ZenConfig] File loaded: ZenSkillsConfig.json version=1.29.1
+ SCRIPT       : [PluginZenSkills] :: OnInit.
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] [ZenConfig] Loading file: $profile:Zenarchist\Skills\ZenSkillsEXP.json
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] [ZenConfig] File loaded: ZenSkillsEXP.json version=1.29.1
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] [ZenModCore] MissionBase()
+ SCRIPT       : [ZenModCore] Listing CfgMods:
+ SCRIPT       : #ifdef defaultAction
+ SCRIPT       : #ifdef DayZ
+ SCRIPT       : #ifdef sakhal
+ SCRIPT       : #ifdef JM_CommunityFramework
+ SCRIPT       : #ifdef AVPPAdminTools
+ SCRIPT       : #ifdef ZenModCore
+ SCRIPT       : #ifdef ZenSkills
+ SCRIPT       : #ifdef Nomadbackpack_v3
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] [ZenObjectHookSpawner] Init.
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] [ZenModCore] OnInit.
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] MissionBase::OnInit
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] [ZenModCore] Server session count: 2
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] [ZenModCore::ZenConfigRegister] Registering ZenConfigRegister RPCs.
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] [ZenConfig] Loading config files for map: chernarusplus
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] [ZenConfig] Loading file: $profile:Zenarchist\Core\ZenCoreConfig.json
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] [ZenConfig] File loaded: ZenCoreConfig.json version=1.29.3
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] [ZenConfig] Loading file: $profile:Zenarchist\Skills\DB\\ZenSkillsHighscoresDB.json
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] [ZenConfig] File loaded: ZenSkillsHighscoresDB.json version=1.29.1
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] [ZenAdminCommandHandler] Init RPCs.
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] Server session count: 2
+ SCRIPT       : [MissionServer] OnInit - Server
+ SCRIPT       : [ZenSkills] MissionServer::OnInit
+ SCRIPT       : [ZEN|2026.07.15 22:31:56] MissionBase::OnMissionStart
+ SCRIPT       : [MissionServer] OnMissionStart - Server
+ SCRIPT       : string dirtyName = 'chernopvetest'
+ SCRIPT       : [ZEN|2026.07.15 22:31:57] [ZenModCore] OnMissionStart.
+SCRIPT       : m_LoginTimeMs: 16200

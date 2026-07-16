@@ -1,0 +1,67 @@
+{
+    "PerSkill": {
+        "survival": {
+            "CumExp": 20,
+            "AvgExp": 10,
+            "CumPlayers": 1,
+            "SessionsWithPlayers": 1,
+            "WeightedAvgPerPlayer": 20.0,
+            "SumOfSessionPlayerMeans": 20.0,
+            "MeanOfSessionMeans": 20.0
+        },
+        "hunting": {
+            "CumExp": 5936,
+            "AvgExp": 2968,
+            "CumPlayers": 1,
+            "SessionsWithPlayers": 1,
+            "WeightedAvgPerPlayer": 5936.0,
+            "SumOfSessionPlayerMeans": 5936.0,
+            "MeanOfSessionMeans": 5936.0
+        },
+        "gathering": {
+            "CumExp": 0,
+            "AvgExp": 0,
+            "CumPlayers": 0,
+            "SessionsWithPlayers": 0,
+            "WeightedAvgPerPlayer": 0.0,
+            "SumOfSessionPlayerMeans": 0.0,
+            "MeanOfSessionMeans": 0.0
+        },
+        "crafting": {
+            "CumExp": 0,
+            "AvgExp": 0,
+            "CumPlayers": 0,
+            "SessionsWithPlayers": 0,
+            "WeightedAvgPerPlayer": 0.0,
+            "SumOfSessionPlayerMeans": 0.0,
+            "MeanOfSessionMeans": 0.0
+        }
+    },
+    "PerAction": {
+        "killed_zombie_generic": {
+            "CumExp": 20,
+            "AvgExp": 10,
+            "CumPlayers": 1,
+            "SessionsWithPlayers": 1,
+            "WeightedAvgPerPlayer": 20.0,
+            "SumOfSessionPlayerMeans": 20.0,
+            "MeanOfSessionMeans": 20.0
+        },
+        "killed_animal_ursusarctos": {
+            "CumExp": 5936,
+            "AvgExp": 2968,
+            "CumPlayers": 1,
+            "SessionsWithPlayers": 1,
+            "WeightedAvgPerPlayer": 5936.0,
+            "SumOfSessionPlayerMeans": 5936.0,
+            "MeanOfSessionMeans": 5936.0
+        }
+    },
+    "Sessions": 2,
+    "LastUpdateTick": 1221342,
+    "OpenSessionId": "",
+    "OpenSessionApplied": {},
+    "OpenSessionDistinctPlayers": {},
+    "OpenSessionAppliedAction": {},
+    "OpenSessionDistinctPlayersAction": {}
+}

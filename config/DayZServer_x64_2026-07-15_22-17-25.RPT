@@ -1,0 +1,833 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== "DayZServer_x64.exe" -config=serverDZ.cfg -port=2302 "-profiles=config" "-mod=@CF;@Zens Core Mod;@Zens Skill Perk Tree;@VPPAdminTools;@Nomadbackpack;" -cpuCount=2 -dologs -adminlog -netlog -freezecheck
+=====================================================================
+Exe timestamp: 2026/07/15 22:09:43
+Current time:  2026/07/15 22:17:25
+Version 1.29.163451
+=====================================================================
+
+22:17:25.892 ENGINE    (W): Process affinity forced to 3
+22:17:26.254 String "STR_server_shutdown" listed twice in "Global"
+22:17:26.275 Localization not present: STR_DATE_FORMAT_SHORT
+22:17:26.275 Localization not present: STR_TIME_FORMAT
+22:17:26.275 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+22:17:26.275 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+22:17:26.275 Localization not present: STR_MP_VALIDERROR
+22:17:26.275 Localization not present: STR_MP_CONNECTION_LOOSING
+22:17:26.275 Localization not present: STR_MSG_MP_NO_PASSWORD
+22:17:26.275 Localization not present: STR_MSG_LAUNCH_GAME
+22:17:26.275 Localization not present: STR_LOAD_INIT
+22:17:26.275 Localization not present: STR_LOAD_WORLD
+22:17:26.275 Localization not present: STR_LOAD_GAME
+22:17:26.275 Localization not present: STR_SAVE_GAME
+22:17:26.275 Localization not present: STR_MP_CONNECT
+22:17:26.275 Localization not present: STR_MP_DISCONNECT
+22:17:26.275 Localization not present: STR_MP_CONNECTING
+22:17:26.275 Localization not present: STR_MP_TIMEOUT
+22:17:26.275 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+22:17:26.275 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+22:17:26.276 Localization not present: STR_DATE_FORMAT_SHORT
+22:17:26.276 Localization not present: STR_TIME_FORMAT
+22:17:26.276 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+22:17:26.276 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+22:17:26.276 Localization not present: STR_MP_VALIDERROR
+22:17:26.276 Localization not present: STR_MP_CONNECTION_LOOSING
+22:17:26.276 Localization not present: STR_MSG_MP_NO_PASSWORD
+22:17:26.276 Localization not present: STR_MSG_LAUNCH_GAME
+22:17:26.276 Localization not present: STR_LOAD_INIT
+22:17:26.276 Localization not present: STR_LOAD_WORLD
+22:17:26.276 Localization not present: STR_LOAD_GAME
+22:17:26.276 Localization not present: STR_SAVE_GAME
+22:17:26.276 Localization not present: STR_MP_CONNECT
+22:17:26.276 Localization not present: STR_MP_DISCONNECT
+22:17:26.276 Localization not present: STR_MP_CONNECTING
+22:17:26.276 Localization not present: STR_MP_TIMEOUT
+22:17:26.276 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+22:17:26.276 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+22:17:26.346 Initializing stats manager.
+22:17:26.347 Stats config disabled.
+22:17:30.482 Updating base class All->AllVehicles, by DZ\data\config.bin/CfgVehicles/Man/
+22:17:30.528 Updating base class Name->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/Hill/
+22:17:30.528 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/ViewPoint/
+22:17:30.528 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/RockArea/
+22:17:30.528 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/BorderCrossing/
+22:17:30.528 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationBroadleaf/
+22:17:30.528 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationFir/
+22:17:30.528 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationPalm/
+22:17:30.528 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationVineyard/
+22:17:30.616 Updating base class ->Rifle_Base, by DZ\weapons\firearms\m4\config.bin/cfgWeapons/M4A1_Base/
+22:17:30.616 Updating base class ->M4A1_Base, by DZ\weapons\firearms\m4\config.bin/cfgWeapons/M4A1/
+22:17:30.621 Updating base class Weather->, by DZ\worlds\chernarusplus\world\config.bin/CfgWorlds/CAWorld/Weather/
+22:17:30.621 Updating base class Overcast->, by DZ\worlds\chernarusplus\world\config.bin/CfgWorlds/CAWorld/Weather/Overcast/
+22:17:30.623 Updating base class MapDefaults->, by VPPAdminTools\assets\config.bin/RscMapControl/
+22:17:31.667 Updating base class TentBase->Container_Base, by Nomad_Backpack\nomadbackpack_v3\config.bin/CfgVehicles/MediumTent/
+22:17:31.667 Updating base class TentBase->Container_Base, by Nomad_Backpack\nomadbackpack_v3\config.bin/CfgVehicles/LargeTent/
+22:17:32.959 ENGINE       : Enfusion engine version 0.1
+22:17:32.963 ENGINE       : FileSystem: Adding relative directory 'D:\SteamLibrary\steamapps\common\DayZServer' to RV filesystem under name CurrentDir
+22:17:32.963 ENGINE       : Loading config '$CurrentDir:DayZSetting.xml'
+22:17:32.980 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapon_underslung.pbo' to RV filesystem
+22:17:32.992 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_proxy_parts.pbo' to RV filesystem
+22:17:33.06  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_residential_bliss.pbo' to RV filesystem
+22:17:33.20  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapon_magazines.pbo' to RV filesystem
+22:17:33.31  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\worlds_chernarusplus_nav.pbo' to RV filesystem
+22:17:33.43  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_underground_bliss.pbo' to RV filesystem
+22:17:33.55  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapon_supports.pbo' to RV filesystem
+22:17:33.63  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_industrial_bliss.pbo' to RV filesystem
+22:17:33.71  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\worlds_chernarusplus.pbo' to RV filesystem
+22:17:33.84  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapon_muzzles.pbo' to RV filesystem
+22:17:33.91  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapon_optics.pbo' to RV filesystem
+22:17:33.91  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapon_lights.pbo' to RV filesystem
+22:17:33.102 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\worlds_chernarusplus_data.pbo' to RV filesystem
+22:17:33.111 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_military_bliss.pbo' to RV filesystem
+22:17:33.123 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_specific_bliss.pbo' to RV filesystem
+22:17:33.139 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapon_attachments_textures.pbo' to RV filesystem
+22:17:33.149 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\worlds_chernarusplus_ce.pbo' to RV filesystem
+22:17:33.156 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_wrecks_bliss.pbo' to RV filesystem
+22:17:33.166 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_residential.pbo' to RV filesystem
+22:17:33.174 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_walls_bliss.pbo' to RV filesystem
+22:17:33.184 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_ruins_bliss.pbo' to RV filesystem
+22:17:33.197 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_signs_bliss.pbo' to RV filesystem
+22:17:33.205 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_roads_bliss.pbo' to RV filesystem
+22:17:33.215 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_industrial.pbo' to RV filesystem
+22:17:33.229 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\sakhal\addons\worlds_sakhal_nav.pbo' to RV filesystem
+22:17:33.239 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_rail_bliss.pbo' to RV filesystem
+22:17:33.251 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_data_bliss.pbo' to RV filesystem
+22:17:33.260 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_furniture.pbo' to RV filesystem
+22:17:33.272 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\worlds_enoch_nav.pbo' to RV filesystem
+22:17:33.288 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_backpacks.pbo' to RV filesystem
+22:17:33.298 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_specific.pbo' to RV filesystem
+22:17:33.298 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_headgear.pbo' to RV filesystem
+22:17:33.305 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_military.pbo' to RV filesystem
+22:17:33.317 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapons_projectiles.pbo' to RV filesystem
+22:17:33.323 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\sakhal\addons\worlds_sakhal.ebo' to RV filesystem
+22:17:33.335 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\sakhal\addons\worlds_sakhal_data.pbo' to RV filesystem
+22:17:33.342 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapons_explosives.pbo' to RV filesystem
+22:17:33.350 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_glasses.pbo' to RV filesystem
+22:17:33.357 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapons_ammunition.pbo' to RV filesystem
+22:17:33.367 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\sounds_environment.pbo' to RV filesystem
+22:17:33.378 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_zombies.pbo' to RV filesystem
+22:17:33.390 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\worlds_enoch.pbo' to RV filesystem
+22:17:33.405 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\anims_anm_infected.pbo' to RV filesystem
+22:17:33.417 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_proxies.pbo' to RV filesystem
+22:17:33.424 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapons_animations.pbo' to RV filesystem
+22:17:33.424 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\@VPPAdminTools\addons\assets.pbo' to RV filesystem
+22:17:33.438 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\sakhal\addons\structures_sakhal.pbo' to RV filesystem
+22:17:33.443 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_gloves.pbo' to RV filesystem
+22:17:33.452 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_bodies.pbo' to RV filesystem
+22:17:33.466 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapons_nonlethal.pbo' to RV filesystem
+22:17:33.473 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapons_launchers.pbo' to RV filesystem
+22:17:33.482 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\sounds_characters.pbo' to RV filesystem
+22:17:33.491 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\worlds_enoch_data.pbo' to RV filesystem
+22:17:33.502 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_wrecks.pbo' to RV filesystem
+22:17:33.511 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_consumables.pbo' to RV filesystem
+22:17:33.529 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_vests.pbo' to RV filesystem
+22:17:33.542 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\vehicles_wheeled.pbo' to RV filesystem
+22:17:33.551 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_cultivation.pbo' to RV filesystem
+22:17:33.564 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_shoes.pbo' to RV filesystem
+22:17:33.578 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_pants.pbo' to RV filesystem
+22:17:33.589 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_walls.pbo' to RV filesystem
+22:17:33.601 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_masks.pbo' to RV filesystem
+22:17:33.615 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_signs.pbo' to RV filesystem
+22:17:33.627 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_ruins.pbo' to RV filesystem
+22:17:33.638 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_roads.pbo' to RV filesystem
+22:17:33.649 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_heads.pbo' to RV filesystem
+22:17:33.665 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapons_shotguns.pbo' to RV filesystem
+22:17:33.690 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_belts.pbo' to RV filesystem
+22:17:33.717 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\sakhal\addons\worlds_sakhal_ce.pbo' to RV filesystem
+22:17:33.729 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\anims_workspaces.pbo' to RV filesystem
+22:17:33.740 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\anims_anm_player.pbo' to RV filesystem
+22:17:33.748 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapons_firearms.pbo' to RV filesystem
+22:17:33.761 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapons_proxies.pbo' to RV filesystem
+22:17:33.774 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapons_pistols.pbo' to RV filesystem
+22:17:33.786 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\worlds_enoch_ce.pbo' to RV filesystem
+22:17:33.800 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_navigation.pbo' to RV filesystem
+22:17:33.809 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapons_archery.pbo' to RV filesystem
+22:17:33.816 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_tops.pbo' to RV filesystem
+22:17:33.824 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\sounds_vehicles.pbo' to RV filesystem
+22:17:33.834 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_rail.pbo' to RV filesystem
+22:17:33.854 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\structures_data.pbo' to RV filesystem
+22:17:33.884 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_containers.pbo' to RV filesystem
+22:17:33.898 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\characters_data.pbo' to RV filesystem
+22:17:33.911 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\sakhal\addons\surfaces_sakhal.pbo' to RV filesystem
+22:17:33.918 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\vehicles_water.pbo' to RV filesystem
+22:17:33.925 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\sounds_weapons.pbo' to RV filesystem
+22:17:33.941 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\vehicles_parts.pbo' to RV filesystem
+22:17:33.949 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\surfaces_bliss.pbo' to RV filesystem
+22:17:33.963 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\sakhal\addons\plants_sakhal.pbo' to RV filesystem
+22:17:33.979 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\vehicles_data.pbo' to RV filesystem
+22:17:33.988 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\animals_bliss.pbo' to RV filesystem
+22:17:33.998 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapons_melee.pbo' to RV filesystem
+22:17:34.14  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_crafting.pbo' to RV filesystem
+22:17:34.32  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\sakhal\addons\rocks_sakhal.pbo' to RV filesystem
+22:17:34.41  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_camping.pbo' to RV filesystem
+22:17:34.52  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\plants_bliss.pbo' to RV filesystem
+22:17:34.64  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\sounds_music.pbo' to RV filesystem
+22:17:34.81  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapons_data.pbo' to RV filesystem
+22:17:34.87  ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\sounds_bliss.pbo' to RV filesystem
+22:17:34.106 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\sakhal\addons\water_sakhal.pbo' to RV filesystem
+22:17:34.130 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_cooking.pbo' to RV filesystem
+22:17:34.142 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_medical.pbo' to RV filesystem
+22:17:34.159 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\weapons_misc.pbo' to RV filesystem
+22:17:34.159 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\modules_dayz.pbo' to RV filesystem
+22:17:34.159 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_drinks.pbo' to RV filesystem
+22:17:34.170 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\sakhal\addons\data_sakhal.pbo' to RV filesystem
+22:17:34.184 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\@VPPAdminTools\addons\VPPStaticItems.pbo' to RV filesystem
+22:17:34.197 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\@Nomadbackpack\addons\Nomad_Backpack.pbo' to RV filesystem
+22:17:34.216 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_optics.pbo' to RV filesystem
+22:17:34.241 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\water_bliss.pbo' to RV filesystem
+22:17:34.255 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\rocks_bliss.pbo' to RV filesystem
+22:17:34.269 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\@CF\addons\scripts.pbo' to RV filesystem
+22:17:34.282 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_radio.pbo' to RV filesystem
+22:17:34.292 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\@VPPAdminTools\addons\VPPAdminTools.pbo' to RV filesystem
+22:17:34.309 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_traps.pbo' to RV filesystem
+22:17:34.322 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\sounds_hpp.pbo' to RV filesystem
+22:17:34.335 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\@CF\addons\legacy.pbo' to RV filesystem
+22:17:34.335 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_tools.pbo' to RV filesystem
+22:17:34.348 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\data_bliss.pbo' to RV filesystem
+22:17:34.374 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_books.pbo' to RV filesystem
+22:17:34.396 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\dta\languagecore.pbo' to RV filesystem
+22:17:34.409 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\anims_cfg.pbo' to RV filesystem
+22:17:34.417 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\gear_food.pbo' to RV filesystem
+22:17:34.426 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\sounds_ai.pbo' to RV filesystem
+22:17:34.442 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\ai_bliss.pbo' to RV filesystem
+22:17:34.455 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\surfaces.pbo' to RV filesystem
+22:17:34.465 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\animals.pbo' to RV filesystem
+22:17:34.475 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\@Zens Core Mod\addons\ZenModCore.pbo' to RV filesystem
+22:17:34.487 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\server_data.pbo' to RV filesystem
+22:17:34.487 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\@Zens Skill Perk Tree\addons\ZenSkills.pbo' to RV filesystem
+22:17:34.492 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\@CF\addons\gui.pbo' to RV filesystem
+22:17:34.503 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\plants.pbo' to RV filesystem
+22:17:34.516 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\dta\graphics.pbo' to RV filesystem
+22:17:34.526 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\rocks.pbo' to RV filesystem
+22:17:34.543 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\water.pbo' to RV filesystem
+22:17:34.548 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\dta\scripts.pbo' to RV filesystem
+22:17:34.560 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\dz.pbo' to RV filesystem
+22:17:34.569 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\dta\system.pbo' to RV filesystem
+22:17:34.576 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\ui.pbo' to RV filesystem
+22:17:34.589 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\addons\ai.pbo' to RV filesystem
+22:17:34.597 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\dta\core.pbo' to RV filesystem
+22:17:34.604 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\dta\bin.pbo' to RV filesystem
+22:17:34.612 ENGINE       : FileSystem: Adding package 'D:\SteamLibrary\steamapps\common\DayZServer\dta\gui.pbo' to RV filesystem
+22:17:34.625 ENGINE       : FileSystem: Added 143 RV banks
+22:17:34.644 ENGINE    (W): No module info used, trying to identify -> 0x82800000
+22:17:34.645 ENGINE       : CPU vendor         : GenuineIntel
+22:17:34.645 ENGINE       : CPU type           : 1
+22:17:34.645 ENGINE       : CPU name           : 12th Gen Intel(R) Core(TM) i7-12700KF
+22:17:34.645 ENGINE       : CPU cache info     : L1 [Inst 64KB, Data 48KB], L2 [Unif 2048KB], L3 [Unif 25600KB]
+22:17:34.645 ENGINE       : CPU count logical  : 20
+22:17:34.645 ENGINE       : CPU count physical : 12
+22:17:34.645 ENGINE       : CPU features       : mmx sse sse2 sse3 ssse3 sse4_1 sse4_2 aesni pclmulqdq osxsave avx sha avx2
+22:17:34.645 ENGINE    (W): Adjusting job system settings to have at least one job worker thread.
+22:17:34.729 ENGINE       : FileSystem: Adding relative directory 'D:\SteamLibrary\steamapps\common\DayZServer\config' to RV filesystem under name profile
+22:17:34.729 ENGINE       : FileSystem: Adding relative directory 'D:\SteamLibrary\steamapps\common\DayZServer\config\Users\Server' to RV filesystem under name saves
+22:17:34.818 SCRIPT       : Module: GameLib; loaded 18x files; 26x classes; used 39/2097 kB (1) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_CommunityFramework,CF_MODULE_CONFIG,CF_EXPRESSION,CF_TRACE_STACK_NAME_ASSUMPTION_FIX,CF_GHOSTICONS,CF_MODSTORAGE,CF_SURFACES,CF_MODULES,CF_REF_FIX,CF_BUGFIX_REF,CF_BUGFIX_XML,CF_VIRTUALSTORAGE_FIX,CF_DOUBLYLINKEDNODES,CF_ONUPDATE_RATE_LIMIT,CF_LOG_TIMESTAMP,AVPPAdminTools,ZenModCore,ZenSkills,Nomadbackpack_v3,DayZ,FEATURE_CURSOR,FEATURE_NETWORK_RECONCILIATION,FEATURE_NETWORK_RECONCILATION"; CRC32: 00000000
+22:17:34.818 [Inputs] Loading inputs default "bin/constants.xml"
+22:17:34.832 [Inputs] Loading inputs default "bin/specific.xml"
+22:17:34.832 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+22:17:34.832 [Inputs] Loading inputs default "ZenSkills/data/inputs.xml"
+22:17:34.856 [Inputs] Loading inputs cfg "config\Users\Survivor\Server.core.xml"
+22:17:34.856 !!! [Inputs] Cannot read inputs cfg "config\Users\Survivor\Server.core.xml", parser error
+22:17:34.856 [Inputs] Loading inputs cfg "bin/core.xml"
+22:17:34.856 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+22:17:34.868 [Inputs] Exporting inputs cfg "config\Users\Survivor\Server.core.xml"
+22:17:34.891 SCRIPT       : Registered 350 temporary action enum(s), UAN==350
+22:17:35.495 SCRIPT       : Module: Game; loaded 551x files; 1731x classes; used 4721/33554 kB (14) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_CommunityFramework,CF_MODULE_CONFIG,CF_EXPRESSION,CF_TRACE_STACK_NAME_ASSUMPTION_FIX,CF_GHOSTICONS,CF_MODSTORAGE,CF_SURFACES,CF_MODULES,CF_REF_FIX,CF_BUGFIX_REF,CF_BUGFIX_XML,CF_VIRTUALSTORAGE_FIX,CF_DOUBLYLINKEDNODES,CF_ONUPDATE_RATE_LIMIT,CF_LOG_TIMESTAMP,AVPPAdminTools,ZenModCore,ZenSkills,Nomadbackpack_v3,DayZ,FEATURE_CURSOR,FEATURE_NETWORK_RECONCILIATION,FEATURE_NETWORK_RECONCILATION,VPPADMINTOOLS,VPPAT_NOTIFICATIONS"; CRC32: 00000000
+22:17:35.501 SCRIPT       : ... Backlit Effects Enabled
+22:17:37.00  SCRIPT       : VPPNotificationManager()
+22:17:37.00  SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+22:17:37.00  SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+22:17:37.00  ANIMATION (E): Can't load @Nomadbackpack/Anims/cfg/skeletons.anim.xml
+22:17:37.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:17:37.00  ANIMATION (E): Can't load @VPPAdminTools/Anims/cfg/skeletons.anim.xml
+22:17:37.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:17:37.00  ANIMATION (E): Can't load @Zens Skill Perk Tree/Anims/cfg/skeletons.anim.xml
+22:17:37.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:17:37.00  ANIMATION (E): Can't load @Zens Core Mod/Anims/cfg/skeletons.anim.xml
+22:17:37.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:17:37.00  ANIMATION (E): Can't load @CF/Anims/cfg/skeletons.anim.xml
+22:17:37.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:17:37.00  ANIMATION (E): Can't load sakhal/Anims/cfg/skeletons.anim.xml
+22:17:37.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:17:37.01  ENGINE       : Skeleton definition successfully loaded (DZ/Anims/cfg/skeletons.anim.xml)
+22:17:37.01  ENGINE       : Enfusion engine successfully created
+22:17:37.192 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather1.farCloud'.
+22:17:37.192 Warning Message: Trying to access error value.
+22:17:37.192 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather1.cloud'.
+22:17:37.192 Warning Message: Trying to access error value.
+22:17:37.192 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather2.farCloud'.
+22:17:37.192 Warning Message: Trying to access error value.
+22:17:37.192 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather2.cloud'.
+22:17:37.192 Warning Message: Trying to access error value.
+22:17:37.192 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather3.farCloud'.
+22:17:37.192 Warning Message: Trying to access error value.
+22:17:37.192 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather3.cloud'.
+22:17:37.192 Warning Message: Trying to access error value.
+22:17:37.192 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather4.farCloud'.
+22:17:37.192 Warning Message: Trying to access error value.
+22:17:37.192 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather4.cloud'.
+22:17:37.192 Warning Message: Trying to access error value.
+22:17:37.192 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather5.farCloud'.
+22:17:37.192 Warning Message: Trying to access error value.
+22:17:37.192 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather5.cloud'.
+22:17:37.192 Warning Message: Trying to access error value.
+22:17:37.192 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.spaceIntensity'.
+22:17:37.192 Warning Message: Trying to access error value.
+22:17:37.192 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.starsIntensity'.
+22:17:37.192 Warning Message: Trying to access error value.
+22:17:37.192 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.atmosphereIntensity'.
+22:17:37.192 Warning Message: Trying to access error value.
+22:17:37.192 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.NearCloud'.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather1.farCloud'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather1.cloud'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather2.farCloud'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather2.cloud'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather3.farCloud'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather3.cloud'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather4.farCloud'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather4.cloud'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather5.farCloud'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather5.cloud'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.spaceIntensity'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.starsIntensity'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.atmosphereIntensity'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.NearCloud'.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.volFogOffset'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.spaceObject'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.atmosphereObject'.
+22:17:37.194 Warning Message: Trying to access error value.
+22:17:37.194 Atmosphere not loaded, using old 'sky'.
+22:17:37.196 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.nearCloudObject'.
+22:17:37.196 Warning Message: Trying to access error value.
+22:17:37.196 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.cloudObject'.
+22:17:37.196 Warning Message: Trying to access error value.
+22:17:37.196 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.horizonObject'.
+22:17:37.196 Warning Message: Trying to access error value.
+22:17:37.196 WORLD        : PreloadVehicles
+22:17:37.199 PROFILING    : PreloadVehicles took: 2.919900 ms
+22:17:39.190 SCRIPT       : Module: World; loaded 2325x files; 6021x classes; used 9796/33554 kB (29) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_CommunityFramework,CF_MODULE_CONFIG,CF_EXPRESSION,CF_TRACE_STACK_NAME_ASSUMPTION_FIX,CF_GHOSTICONS,CF_MODSTORAGE,CF_SURFACES,CF_MODULES,CF_REF_FIX,CF_BUGFIX_REF,CF_BUGFIX_XML,CF_VIRTUALSTORAGE_FIX,CF_DOUBLYLINKEDNODES,CF_ONUPDATE_RATE_LIMIT,CF_LOG_TIMESTAMP,AVPPAdminTools,ZenModCore,ZenSkills,Nomadbackpack_v3,DayZ,FEATURE_CURSOR,FEATURE_NETWORK_RECONCILIATION,FEATURE_NETWORK_RECONCILATION,VPPADMINTOOLS,VPPAT_NOTIFICATIONS"; CRC32: 00000000
+22:17:39.337 Warning: CfgWeapons missing in PreloadConfig - may slow down vehicle creation
+22:17:39.337 Warning: CfgMagazines missing in PreloadConfig - may slow down vehicle creation
+22:17:39.337 String "STR_DN_UNKNOWN" not found (not in localization table)
+22:17:39.337 String "STR_DN_TRANSPORT" not found (not in localization table)
+22:17:39.337 String "STR_DN_CAR" not found (not in localization table)
+22:17:39.338 String "STR_DN_BOAT" not found (not in localization table)
+22:17:39.338 String "STR_DN_HELICOPTER" not found (not in localization table)
+22:17:39.338 String "STR_DN_HELICOPTER" not found (not in localization table)
+22:17:39.338 String "STR_DN_UNKNOWN" not found (not in localization table)
+22:17:39.338 String "STR_DN_MAN" not found (not in localization table)
+22:17:39.338 String "STR_DN_ANIMAL" not found (not in localization table)
+22:17:39.338 String "STR_DN_UNKNOWN" not found (not in localization table)
+22:17:39.338 String "STR_DN_BUNKER" not found (not in localization table)
+22:17:39.338 String "STR_DN_UNKNOWN" not found (not in localization table)
+22:17:39.338 String "STR_DN_UNKNOWN" not found (not in localization table)
+22:17:39.338 String "STR_DN_UNKNOWN" not found (not in localization table)
+22:17:39.338 String "STR_DN_UNKNOWN" not found (not in localization table)
+22:17:39.338 String "STR_DN_MAN" not found (not in localization table)
+22:17:39.338 String "STR_DN_MAN" not found (not in localization table)
+22:17:39.338 String "STR_DN_MAN" not found (not in localization table)
+22:17:39.339 String "STR_DN_ANIMAL" not found (not in localization table)
+22:17:39.339 String "STR_DN_ANIMAL" not found (not in localization table)
+22:17:39.353 String "STR_DN_MAN" not found (not in localization table)
+22:17:39.364 String "STR_DN_BOAT" not found (not in localization table)
+22:17:39.364 String "STR_DN_CAR" not found (not in localization table)
+22:17:39.364 String "STR_DN_CAR" not found (not in localization table)
+22:17:39.364 String "STR_DN_CAR" not found (not in localization table)
+22:17:39.364 String "STR_DN_CAR" not found (not in localization table)
+22:17:39.364 String "STR_DN_CAR" not found (not in localization table)
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/MushroomsStageTransitions.scope'.
+22:17:39.380 Warning Message: Trying to access error value.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/MushroomsStageTransitions.model'.
+22:17:39.380 Warning Message: Trying to access error value.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/MushroomsStageTransitions.simulation'.
+22:17:39.380 Warning Message: Trying to access error value.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/MushroomsStageTransitions.displayName'.
+22:17:39.380 Warning Message: Trying to access error value.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/MushroomsStageTransitions.destrType'.
+22:17:39.380 Warning Message: Trying to access error value.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/MushroomsStageTransitions.itemsCargoSize'.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/MushroomsStageTransitions.clothingType'.
+22:17:39.380 Warning Message: Trying to access error value.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/MushroomsStageTransitions.soundEngine'.
+22:17:39.380 Warning Message: Size: '/' not an array
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/MushroomsStageTransitions.soundCrash'.
+22:17:39.380 Warning Message: Size: '/' not an array
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/MushroomsStageTransitions.soundLandCrash'.
+22:17:39.380 Warning Message: Size: '/' not an array
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/MushroomsStageTransitions.soundWaterCrash'.
+22:17:39.380 Warning Message: Size: '/' not an array
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/MushroomsStageTransitions.reversed'.
+22:17:39.380 Warning Message: Trying to access error value.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/FoodAnimationSources.scope'.
+22:17:39.380 Warning Message: Trying to access error value.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/FoodAnimationSources.model'.
+22:17:39.380 Warning Message: Trying to access error value.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/FoodAnimationSources.simulation'.
+22:17:39.380 Warning Message: Trying to access error value.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/FoodAnimationSources.displayName'.
+22:17:39.380 Warning Message: Trying to access error value.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/FoodAnimationSources.destrType'.
+22:17:39.380 Warning Message: Trying to access error value.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/FoodAnimationSources.itemsCargoSize'.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/FoodAnimationSources.clothingType'.
+22:17:39.380 Warning Message: Trying to access error value.
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/FoodAnimationSources.soundEngine'.
+22:17:39.380 Warning Message: Size: '/' not an array
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/FoodAnimationSources.soundCrash'.
+22:17:39.380 Warning Message: Size: '/' not an array
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/FoodAnimationSources.soundLandCrash'.
+22:17:39.380 Warning Message: Size: '/' not an array
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/FoodAnimationSources.soundWaterCrash'.
+22:17:39.380 Warning Message: Size: '/' not an array
+22:17:39.380 Warning Message: No entry 'bin\config.bin/CfgVehicles/FoodAnimationSources.reversed'.
+22:17:39.380 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Base.scope'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Base.model'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Base.simulation'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Base.displayName'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Base.destrType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Base.itemsCargoSize'.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Base.clothingType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Base.soundEngine'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Base.soundCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Base.soundLandCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Base.soundWaterCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Base.reversed'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Base.scope'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Base.model'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Base.simulation'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Base.displayName'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Base.destrType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Base.itemsCargoSize'.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Base.clothingType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Base.soundEngine'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Base.soundCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Base.soundLandCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Base.soundWaterCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Base.reversed'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_craftable_ex_Kit.scope'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_craftable_ex_Kit.model'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_craftable_ex_Kit.simulation'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_craftable_ex_Kit.displayName'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_craftable_ex_Kit.destrType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_craftable_ex_Kit.itemsCargoSize'.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_craftable_ex_Kit.clothingType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_craftable_ex_Kit.soundEngine'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_craftable_ex_Kit.soundCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_craftable_ex_Kit.soundLandCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_craftable_ex_Kit.soundWaterCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_craftable_ex_Kit.reversed'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Green.scope'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Green.model'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Green.simulation'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Green.displayName'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Green.destrType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Green.itemsCargoSize'.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Green.clothingType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Green.soundEngine'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Green.soundCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Green.soundLandCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Green.soundWaterCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Green.reversed'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Pink.scope'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Pink.model'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Pink.simulation'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Pink.displayName'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Pink.destrType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Pink.itemsCargoSize'.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Pink.clothingType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Pink.soundEngine'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Pink.soundCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Pink.soundLandCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Pink.soundWaterCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Pink.reversed'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Yellow.scope'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Yellow.model'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Yellow.simulation'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Yellow.displayName'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Yellow.destrType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Yellow.itemsCargoSize'.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Yellow.clothingType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Yellow.soundEngine'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Yellow.soundCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Yellow.soundLandCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Yellow.soundWaterCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Yellow.reversed'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Blue.scope'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Blue.model'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Blue.simulation'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Blue.displayName'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Blue.destrType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Blue.itemsCargoSize'.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Blue.clothingType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Blue.soundEngine'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Blue.soundCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Blue.soundLandCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Blue.soundWaterCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_Mattress_Blue.reversed'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Green.scope'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Green.model'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Green.simulation'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Green.displayName'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Green.destrType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Green.itemsCargoSize'.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Green.clothingType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Green.soundEngine'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Green.soundCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Green.soundLandCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Green.soundWaterCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Green.reversed'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Blue.scope'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Blue.model'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Blue.simulation'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Blue.displayName'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Blue.destrType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Blue.itemsCargoSize'.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Blue.clothingType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Blue.soundEngine'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Blue.soundCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Blue.soundLandCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Blue.soundWaterCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Blue.reversed'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_LimeGreen.scope'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_LimeGreen.model'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_LimeGreen.simulation'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_LimeGreen.displayName'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_LimeGreen.destrType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_LimeGreen.itemsCargoSize'.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_LimeGreen.clothingType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_LimeGreen.soundEngine'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_LimeGreen.soundCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_LimeGreen.soundLandCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_LimeGreen.soundWaterCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_LimeGreen.reversed'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Orange.scope'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Orange.model'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Orange.simulation'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Orange.displayName'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Orange.destrType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Orange.itemsCargoSize'.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Orange.clothingType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Orange.soundEngine'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Orange.soundCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Orange.soundLandCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Orange.soundWaterCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Orange.reversed'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Purple.scope'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Purple.model'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Purple.simulation'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Purple.displayName'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Purple.destrType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Purple.itemsCargoSize'.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Purple.clothingType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Purple.soundEngine'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Purple.soundCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Purple.soundLandCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Purple.soundWaterCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Purple.reversed'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Red.scope'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Red.model'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Red.simulation'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Red.displayName'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Red.destrType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Red.itemsCargoSize'.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Red.clothingType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Red.soundEngine'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Red.soundCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Red.soundLandCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Red.soundWaterCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/Msp_SleepingBag_Red.reversed'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_sleeping_bag_Kit.scope'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_sleeping_bag_Kit.model'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_sleeping_bag_Kit.simulation'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_sleeping_bag_Kit.displayName'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_sleeping_bag_Kit.destrType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_sleeping_bag_Kit.itemsCargoSize'.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_sleeping_bag_Kit.clothingType'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_sleeping_bag_Kit.soundEngine'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_sleeping_bag_Kit.soundCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_sleeping_bag_Kit.soundLandCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_sleeping_bag_Kit.soundWaterCrash'.
+22:17:39.387 Warning Message: Size: '/' not an array
+22:17:39.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/bl_sleeping_bag_Kit.reversed'.
+22:17:39.387 Warning Message: Trying to access error value.
+22:17:39.428 Bad uvSource None in nomad_backpack\nomadbackpack_v3\data\kitsbittke.rvmat stage 1 (Super, tex nomad_backpack\nomadbackpack_v3\data\kitsbittke_nohq.paa)
+22:17:39.428 Bad uvSource None in nomad_backpack\nomadbackpack_v3\data\kitsbittke.rvmat stage 2 (Super, tex #(argb,8,8,3)color(0.5,0.5,0.5,1,dt))
+22:17:39.428 Bad uvSource None in nomad_backpack\nomadbackpack_v3\data\kitsbittke.rvmat stage 3 (Super, tex #(argb,8,8,3)color(0,0,0,0,mc))
+22:17:39.428 Bad uvSource None in nomad_backpack\nomadbackpack_v3\data\kitsbittke.rvmat stage 4 (Super, tex nomad_backpack\nomadbackpack_v3\data\kitsbittke_as.paa)
+22:17:39.428 Bad uvSource None in nomad_backpack\nomadbackpack_v3\data\kitsbittke.rvmat stage 5 (Super, tex nomad_backpack\nomadbackpack_v3\data\kitsbittke_smdi.paa)
+22:17:39.853 Unrecognized CfgNonAIVehicles simulation seagull in bin\config.bin/CfgNonAIVehicles/Bird/
+22:17:39.853 Unrecognized CfgNonAIVehicles simulation seagull in bin\config.bin/CfgNonAIVehicles/Insect/
+22:17:39.858 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew.simulation'.
+22:17:39.858 Warning Message: Trying to access error value.
+22:17:39.858 Unrecognized CfgNonAIVehicles simulation  in bin\config.bin/CfgNonAIVehicles/ProxyCrew/
+22:17:39.858 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew.model'.
+22:17:39.858 Warning Message: Trying to access error value.
+22:17:39.858 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew.simulation'.
+22:17:39.858 Warning Message: Trying to access error value.
+22:17:40.06  String "STR_CfgMagazines_Mag_CZ550_4rnd0" not found (not in localization table)
+22:17:40.372 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.IZH18_Closure_SoundShader'.
+22:17:40.372 Warning Message: No entry '.samples'.
+22:17:40.372 Warning Message: Size: '/' not an array
+22:17:40.372 Warning Message: Size: '/' not an array
+22:17:40.666 ANIMATION    : PreloadAnimationSets
+22:17:40.666 Warning Message: 'access/' is not a class ('EnfAnimSys' accessed)
+22:17:45.371 PROFILING    : PreloadAnimationSets took: 4704.037200 ms
+22:17:45.385 Warning: No components in dz\gear\camping\mediumtent.p3d:geometryView
+22:17:45.399 Warning: No components in dz\gear\camping\proxies\mediumtentcamonetproxy.p3d:geometry
+22:17:45.399 Warning: No components in dz\gear\camping\proxies\mediumtentcamonetproxy.p3d:geometryFire
+22:17:45.399 Warning: No components in dz\gear\camping\proxies\mediumtentcamonetproxy.p3d:geometryView
+22:17:45.429 Convex "component01" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometry
+22:17:45.429 Convex "component02" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometry
+22:17:45.429 Convex "component01" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometryFire
+22:17:45.429 Convex "component02" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometryFire
+22:17:45.429 Convex "component01" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometryView
+22:17:45.429 Convex "component02" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometryView
+22:17:45.429 Warning: No components in dz\gear\camping\largetent.p3d:geometryView
+22:17:45.429 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity LargeTent
+22:17:45.463 Warning: No components in dz\gear\camping\cartent.p3d:geometryView
+22:17:45.470 Warning: No components in dz\gear\camping\proxies\cartentcamonetproxy.p3d:geometry
+22:17:45.470 Warning: No components in dz\gear\camping\proxies\cartentcamonetproxy.p3d:geometryFire
+22:17:45.470 Warning: No components in dz\gear\camping\proxies\cartentcamonetproxy.p3d:geometryView
+22:17:45.480 Warning: No components in dz\gear\camping\party_tent.p3d:geometryView
+22:17:45.480 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity PartyTent
+22:17:45.482 Warning: No components in dz\gear\camping\proxies\partytentpackproxy.p3d:geometry
+22:17:45.482 Warning: No components in dz\gear\camping\proxies\partytentpackproxy.p3d:geometryFire
+22:17:45.483 Warning: No components in dz\gear\camping\proxies\partytentcamo1closedproxy.p3d:geometry
+22:17:45.483 Warning: No components in dz\gear\camping\proxies\partytentcamo2closedproxy.p3d:geometry
+22:17:45.483 Warning: No components in dz\gear\camping\proxies\partytentcamo3closedproxy.p3d:geometry
+22:17:45.483 Warning: No components in dz\gear\camping\proxies\partytentcamo4closedproxy.p3d:geometry
+22:17:45.483 Warning: No components in dz\gear\camping\proxies\partytentcamo5closedproxy.p3d:geometry
+22:17:45.483 Warning: No components in dz\gear\camping\proxies\partytentcamo6closedproxy.p3d:geometry
+22:17:45.483 Warning: No components in dz\gear\camping\proxies\partytentcamoroofproxy.p3d:geometry
+22:17:45.483 Warning: No components in dz\gear\camping\proxies\partytentcamo1openedproxy.p3d:geometry
+22:17:45.483 Warning: No components in dz\gear\camping\proxies\partytentcamo2openedproxy.p3d:geometry
+22:17:45.483 Warning: No components in dz\gear\camping\proxies\partytentcamo3openedproxy.p3d:geometry
+22:17:45.483 Warning: No components in dz\gear\camping\proxies\partytentcamo4openedproxy.p3d:geometry
+22:17:45.483 Warning: No components in dz\gear\camping\proxies\partytentcamo5openedproxy.p3d:geometry
+22:17:45.483 Warning: No components in dz\gear\camping\proxies\partytentcamo6openedproxy.p3d:geometry
+22:17:45.484 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity PartyTent_Blue
+22:17:45.484 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity PartyTent_Brown
+22:17:45.486 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity PartyTent_Lunapark
+22:17:45.505 Warning: No components in dz\gear\camping\proxies\roof.p3d:geometryFire
+22:17:45.518 Warning: No components in dz\gear\camping\proxies\camonet.p3d:geometry
+22:17:45.518 Warning: No components in dz\gear\camping\proxies\camonet.p3d:geometryFire
+22:17:45.528 Warning: No components in dz\gear\camping\proxies\barbedwire_mounted.p3d:geometry
+22:17:45.528 Warning: No components in dz\gear\camping\proxies\barbedwire_mounted.p3d:geometryView
+22:17:45.528 Warning: No components in dz\gear\camping\proxies\barbedwire_mounted_up.p3d:geometryView
+22:17:45.582 DamageSystem Warning: Selection wall_gate doesn't exists in fire geometry for entity Fence
+22:17:45.584 Warning: No components in dz\gear\camping\proxies\gate.p3d:geometry
+22:17:45.584 Warning: No components in dz\gear\camping\proxies\gate.p3d:geometryView
+22:17:45.632 Warning: No components in dz\vehicles\wheeled\sedan_02\proxy\sedan_02_interior.p3d:geometryFire
+22:17:45.632 Warning: No components in dz\vehicles\wheeled\sedan_02\proxy\sedan_02_interior.p3d:geometryView
+22:17:45.632 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew_Driver.simulation'.
+22:17:45.632 Warning Message: Trying to access error value.
+22:17:45.632 Unrecognized CfgNonAIVehicles simulation  in bin\config.bin/CfgNonAIVehicles/ProxyCrew_Driver/
+22:17:45.632 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew_Driver.simulation'.
+22:17:45.632 Warning Message: Trying to access error value.
+22:17:45.646 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew_Cargo.simulation'.
+22:17:45.646 Warning Message: Trying to access error value.
+22:17:45.646 Unrecognized CfgNonAIVehicles simulation  in bin\config.bin/CfgNonAIVehicles/ProxyCrew_Cargo/
+22:17:45.646 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew_Cargo.simulation'.
+22:17:45.646 Warning Message: Trying to access error value.
+22:17:45.682 Warning: No components in dz\vehicles\wheeled\sedan_02\proxy\sedan_02_glass2.p3d:geometryFire
+22:17:45.720 Warning: No components in dz\vehicles\wheeled\offroadhatchback\proxy\nivaengine.p3d:geometry
+22:17:45.720 Warning: No components in dz\vehicles\wheeled\offroadhatchback\proxy\nivaengine.p3d:geometryView
+22:17:45.766 Warning: No components in dz\vehicles\wheeled\hatchback_02\proxy\hatchback_02_interior.p3d:geometry
+22:17:45.766 Warning: No components in dz\vehicles\wheeled\hatchback_02\proxy\hatchback_02_engine.p3d:geometry
+22:17:45.766 Warning: No components in dz\vehicles\wheeled\hatchback_02\proxy\hatchback_02_engine.p3d:geometryFire
+22:17:45.766 Warning: No components in dz\vehicles\wheeled\hatchback_02\proxy\hatchback_02_engine.p3d:geometryView
+22:17:45.813 Warning: No components in dz\vehicles\wheeled\civiliansedan\proxy\prox_int.p3d:geometry
+22:17:45.813 Warning: No components in dz\vehicles\wheeled\civiliansedan\proxy\prox_int.p3d:geometryFire
+22:17:45.813 Warning: No components in dz\vehicles\wheeled\civiliansedan\proxy\prox_int.p3d:geometryView
+22:17:45.820 Warning: No components in dz\vehicles\wheeled\civiliansedan\proxy\sedan_engine.p3d:geometry
+22:17:45.820 Warning: No components in dz\vehicles\wheeled\civiliansedan\proxy\sedan_engine.p3d:geometryFire
+22:17:45.820 Warning: No components in dz\vehicles\wheeled\civiliansedan\proxy\sedan_engine.p3d:geometryView
+22:17:45.847 Truck_01_Covered: Engine_Rotate - unknown animation source rpmspeed
+22:17:45.868 Warning: No components in dz\vehicles\wheeled\truck_01\proxy\truck_01_engine.p3d:geometry
+22:17:45.868 Warning: No components in dz\vehicles\wheeled\truck_01\proxy\truck_01_engine.p3d:geometryView
+22:17:45.877 Warning: No components in dz\vehicles\wheeled\truck_01\proxy\truck_01_engine_rotate_1.p3d:geometry
+22:17:45.937 Truck_01_Covered_Blue: Engine_Rotate - unknown animation source rpmspeed
+22:17:45.973 Truck_01_Covered_Orange: Engine_Rotate - unknown animation source rpmspeed
+22:17:46.17  DamageSystem Warning: Selection dmgZone_bumper_1 doesn't exists in fire geometry for entity Offroad_02
+22:17:46.36  Warning: No components in dz\vehicles\wheeled\offroad_02\proxy\offroad_02_body.p3d:geometry
+22:17:46.36  Warning: No components in dz\vehicles\wheeled\offroad_02\proxy\offroad_02_body.p3d:geometryFire
+22:17:46.36  Warning: No components in dz\vehicles\wheeled\offroad_02\proxy\offroad_02_body.p3d:geometryView
+22:17:46.37  Warning: No components in dz\vehicles\wheeled\offroad_02\proxy\offroad_02_roof.p3d:geometry
+22:17:46.41  NETWORK      : server: Player dpid=2 added at playerIndex=0
+22:17:46.41  Server description exceeeds the limit of 255 characters. Description will not be displayed in the server browser!
+22:17:46.105 SUCCESS: SteamGameServer_Init(0,8766,2302,27016,3,1.29.163451)
+22:17:46.105 Hostname of server: "EXAMPLE NAME"
+22:17:46.107 NETWORK      : Server: SetClientState dpid=2 id=0 name=__SERVER__ CREATED -> CONNECTED
+22:17:46.107 NETWORK      : Network simulation
+22:17:46.107  ENGINE       : FileSystem: Adding relative directory 'D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus' to RV filesystem under name mission
+22:17:47.26  ENGINE       : Destroying game
+22:17:47.26   SCRIPT       : ~DayZGame()
+22:17:48.591  --- Termination successfully completed --- 

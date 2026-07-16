@@ -1,0 +1,89 @@
+---------------------------------------------
+Log D:\SteamLibrary\steamapps\common\DayZServer call to types\config\script_2026-07-15_23-30-51.log started at 15.07. 23:30:52
+
+SCRIPT       : Module: GameLib; loaded 18x files; 26x classes; used 39/2097 kB (1%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_CommunityFramework,CF_MODULE_CONFIG,CF_EXPRESSION,C
+SCRIPT       : Registered 350 temporary action enum(s), UAN==350
+SCRIPT       : Module: Game; loaded 551x files; 1731x classes; used 4721/33554 kB (14%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_CommunityFramework,CF_MODULE_CONFIG,CF_EXPRESSI
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : Module: World; loaded 2325x files; 6021x classes; used 9796/33554 kB (29%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_CommunityFramework,CF_MODULE_CONFIG,CF_EXPRES
+ SCRIPT       : Module: Mission; loaded 311x files; 636x classes; used 4206/33554 kB (12%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_CommunityFramework,CF_MODULE_CONFIG,CF_EXPRE
+ SCRIPT       : Module: $CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c; loaded 1x files; 1x classes; used 4/1048 kB (0%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_Commu
+ SCRIPT       : [SERVER :: Vanilla++ AdminTools Plugins Registering]
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenConfig] Loading file: $profile:Zenarchist\Skills\ZenSkillsConfig.json
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenConfig] File loaded: ZenSkillsConfig.json version=1.29.1
+ SCRIPT       : [PluginZenSkills] :: OnInit.
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenConfig] Loading file: $profile:Zenarchist\Skills\ZenSkillsEXP.json
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenConfig] File loaded: ZenSkillsEXP.json version=1.29.1
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenModCore] MissionBase()
+ SCRIPT       : [ZenModCore] Listing CfgMods:
+ SCRIPT       : #ifdef defaultAction
+ SCRIPT       : #ifdef DayZ
+ SCRIPT       : #ifdef sakhal
+ SCRIPT       : #ifdef JM_CommunityFramework
+ SCRIPT       : #ifdef AVPPAdminTools
+ SCRIPT       : #ifdef ZenModCore
+ SCRIPT       : #ifdef ZenSkills
+ SCRIPT       : #ifdef Nomadbackpack_v3
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenObjectHookSpawner] Init.
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenModCore] OnInit.
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] MissionBase::OnInit
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenModCore] Server session count: 4
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenModCore::ZenConfigRegister] Registering ZenConfigRegister RPCs.
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenConfig] Loading config files for map: chernarusplus
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenConfig] Loading file: $profile:Zenarchist\Core\ZenCoreConfig.json
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenConfig] File loaded: ZenCoreConfig.json version=1.29.3
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenConfig] Loading file: $profile:Zenarchist\Skills\DB\\ZenSkillsHighscoresDB.json
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenConfig] File loaded: ZenSkillsHighscoresDB.json version=1.29.1
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenAdminCommandHandler] Init RPCs.
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] Server session count: 4
+ SCRIPT       : [MissionServer] OnInit - Server
+ SCRIPT       : [ZenSkills] MissionServer::OnInit
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] MissionBase::OnMissionStart
+ SCRIPT       : [MissionServer] OnMissionStart - Server
+ SCRIPT       : string dirtyName = 'chernopvetest'
+ SCRIPT       : [ZEN|2026.07.15 23:31:20] [ZenModCore] OnMissionStart.
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : [ZEN|2026.07.15 23:32:21] [ZenObjectHookSpawner] No hook configs to dump positions of.
+ SCRIPT       : [ZEN|2026.07.15 23:32:26] [ZenModCore::ZenConfigRegister] Sent 2 config files to id=_-wC0wV2ka14lFuc5eGGe-lQBE48vgdt55k-F4R92vI=
+ SCRIPT       : [VPPAT] Player "massive muhammed" (steamId=76561198201640109) connected to server!
+ SCRIPT       : [PlayerListManager] AddReceiver ► added: PlayerIdentity<0x000001CB429AB830>
+ SCRIPT       : [Permissions Manager] Admin (massive muhammed) (76561198201640109) Successfully Logged in!
+ SCRIPT       : 23:35:09.228 [ERROR]	[41:44] Expected '=' for attribute, got: "
+ SCRIPT       : 	Err() JM/CF/Scripts/3_Game/communityframework\xml\cf_xml_reader.c : 40
+ SCRIPT       : 	ReadAttribute() JM/CF/Scripts/3_Game/communityframework\xml\cf_xml_document.c : 61
+ SCRIPT       : 	ReadTag() JM/CF/Scripts/3_Game/communityframework\xml\cf_xml_document.c : 127
+ SCRIPT       : 	Read() JM/CF/Scripts/3_Game/communityframework\xml\cf_xml_document.c : 217
+ SCRIPT       : 	ReadDocument() JM/CF/Scripts/3_Game/communityframework\xml\cf_xml.c : 27
+ SCRIPT       : 	FindXmlFiles() VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\xmleditor\xmleditor.c : 265
+ SCRIPT       : 	GetTypesFiles() VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\xmleditor\xmleditor.c : 209
+ SCRIPT       : 	CallFunctionParams() JM/CF/Scripts/1_Core/communityframework\typeconverter\cf_typeconverter.c : 146
+ SCRIPT       : 	VOnRPC() VPPAdminTools/3_Game/communityframework\rpc\rpcmanager.c : 86
+ SCRIPT       : 	OnRPC() VPPAdminTools/3_Game/communityframework\rpc\dayzgame.c : 7
+ SCRIPT       : [VPPAdminTools] FindXmlFiles :: Failed to read cfgeconomycore.xml! File not found.
+ SCRIPT       : [Logout]: New player _-wC0wV2ka14lFuc5eGGe-lQBE48vgdt55k-F4R92vI= with logout time 15
+ SCRIPT       : Player "massive muhammed" (steamid=76561198201640109) initiated disconnect process...
+ SCRIPT       : Player "massive muhammed" (steamid=76561198201640109) disconnected early from server (EXIT NOW).
+SCRIPT       : [ZenSkills] Saving skill DB to file for player: _-wC0wV2ka14lFuc5eGGe-lQBE48vgdt55k-F4R92vI=
+SCRIPT       : [Logout]: Player _-wC0wV2ka14lFuc5eGGe-lQBE48vgdt55k-F4R92vI= finished
+SCRIPT       : [PlayerListManager] SyncEntryToReceivers ► uid: _-wC0wV2ka14lFuc5eGGe-lQBE48vgdt55k-F4R92vI= isn't in the players list! sending a remove.
+SCRIPT       : PlayerDisconnected -> PlayerListManager.RemoveEntry ► _-wC0wV2ka14lFuc5eGGe-lQBE48vgdt55k-F4R92vI=
+SCRIPT       : [ZEN|2026.07.15 23:36:04] [ZenSkillsHighscoresDB] Saving to file: $profile:Zenarchist\Skills\DB\\ZenSkillsHighscoresDB.json
+ SCRIPT       : [ZEN|2026.07.15 23:36:06] MissionBase::OnMissionFinish
+ SCRIPT       : [MissionServer] OnMissionFinish - Server
+ SCRIPT       : [ZEN|2026.07.15 23:36:06] [ZenModCore] OnMissionFinish.
+ SCRIPT       : [ZEN|2026.07.15 23:36:06] Server shutdown detected.
+ SCRIPT       : [ZEN|2026.07.15 23:36:06] Saving all DBs.
+ SCRIPT       : [ZEN|2026.07.15 23:36:06] ~MissionBase()
+ SCRIPT       : [PluginZenSkills] :: OnDestroy.
+ SCRIPT       : [ZEN|2026.07.15 23:36:06] [ZenAdminCommandHandler] Destroyed.
+ SCRIPT       : ~DayZGame()
+ SCRIPT       : Cleaning up script module globals 'Game'
+  SCRIPT       : [ZEN|2026.07.15 23:36:07] [ZenConfig] Destroyed: ZenCoreConfig
+  SCRIPT       : [ZEN|2026.07.15 23:36:07] [ZenConfig] Destroyed: ZenSkillsHighscoresDB
+  SCRIPT       : [ZEN|2026.07.15 23:36:07] [ZenConfig] Destroyed: ZenSkillsClientConfig
+  SCRIPT       : [ZEN|2026.07.15 23:36:07] [ZenConfig] Destroyed: ZenSkillsConfig
+  SCRIPT       : [ZEN|2026.07.15 23:36:07] [ZenConfig] Destroyed: ZenSkillsEXP
+SCRIPT       : Cleaning up script module globals

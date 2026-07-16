@@ -1,0 +1,12 @@
+---------------------------------------------
+Log D:\SteamLibrary\steamapps\common\DayZServer\config\script_2026-07-15_22-17-32.log started at 15.07. 22:17:34
+
+SCRIPT       : Module: GameLib; loaded 18x files; 26x classes; used 39/2097 kB (1%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_CommunityFramework,CF_MODULE_CONFIG,CF_EXPRESSION,C
+SCRIPT       : Registered 350 temporary action enum(s), UAN==350
+SCRIPT       : Module: Game; loaded 551x files; 1731x classes; used 4721/33554 kB (14%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_CommunityFramework,CF_MODULE_CONFIG,CF_EXPRESSI
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : Module: World; loaded 2325x files; 6021x classes; used 9796/33554 kB (29%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,sakhal,JM_CommunityFramework,CF_MODULE_CONFIG,CF_EXPRES
+ SCRIPT       : ~DayZGame()
